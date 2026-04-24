@@ -2,7 +2,7 @@
 import pandas as pd
 import os
 
-SERP_API_KEY = "aa90c66f16c723d652355d8922b9de2c5f89a1348711edde989db8c5502de669"   # free at serpapi.com
+SERP_API_KEY = "your api key from serpapi.com"   # free at serpapi.com
 
 CITY_LAT  = 39.0997
 CITY_LON  = -94.5786
